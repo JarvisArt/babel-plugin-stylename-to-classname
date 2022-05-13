@@ -1,0 +1,4 @@
+{
+  "type": "throw",
+  "throws": "Cannot use anonymous style name 'multiple_import' with more than one stylesheet import."
+}

@@ -1,0 +1,11 @@
+{
+  "extends": ["airbnb-base", "prettier"],
+  "rules": {
+    "import/no-extraneous-dependencies": 0,
+    "import/no-import-module-exports": 0,
+    "prefer-template": 0,
+    "func-names": 0,
+    "arrow-body-style": 0,
+    "no-param-reassign": [2, { "props": false }]
+  }
+}
